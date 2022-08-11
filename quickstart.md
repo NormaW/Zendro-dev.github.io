@@ -1,6 +1,6 @@
 [ &larr; back](README.md)
 <br/>
-# Quickstart
+# Quickstart - Test
 
 This is a quickstart guide on how to create a new Zendro project with default parameters. It uses pre-defined datamodels, database and environment variables.
 
